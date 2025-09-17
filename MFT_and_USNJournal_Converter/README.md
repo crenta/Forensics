@@ -1,4 +1,4 @@
- MFTConv - GUI Wrapper for Forensic Artifact Conversion
+MFTConv - GUI Wrapper for Forensic Artifact Conversion
 
 `MFTConv` is a user-friendly Python GUI application that acts as a frontend for two powerful forensic command-line tools: **MFTECmd.exe** and **JLECmd.exe** from Eric Zimmerman's forensic suite.
 

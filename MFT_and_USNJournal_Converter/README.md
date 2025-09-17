@@ -2,7 +2,7 @@
 
 `MFTConv` is a user-friendly Python GUI application that acts as a frontend for two powerful forensic command-line tools: **MFTECmd.exe** and **JLECmd.exe** from Eric Zimmerman's forensic suite. https://ericzimmerman.github.io/#!index.md
 
-This tool simplifies the process of parsing Windows filesystem artifacts—the Master File Table (`$MFT`) and the USN Journal (`$J`)—by providing an intuitive interface to build and execute complex commands, eliminating the need to manually type them in a terminal.
+This tool simplifies the process of parsing Windows filesystem artifacts—the Master File Table (`$MFT`) and the USN Journal (`$J`)—by providing an intuitive interface to build and execute complex commands, eliminating the need to manually type them in a terminal, and then easily feed your new file to **MFTExplorer.exe** to see forensic details.
 
 ## Features
 

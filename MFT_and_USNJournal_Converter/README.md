@@ -30,7 +30,7 @@ This script **is a wrapper** and does not contain the parsing logic itself. You 
 3.  **Eric Zimmerman's Tools:** You must download `MFTECmd.exe` and `JLECmd.exe`.
     -   **Download Link:** You can get them from the official KAPE repository under the `.\KAPE\Modules\bin` folder or as standalone executables from Eric Zimmerman's website.
     -   **Official Site:** [**https://ericzimmerman.github.io/**](https://ericzimmerman.github.io/)
-4.  **Eric Zimmerman's Tools:** `MFTExplorer` to load the newly created files and see the forensic details.
+4.  **Eric Zimmerman's Tools:** `MFTExplorer.exe` to load the newly created files and see the forensic details.
 
 ## Installation & First-Time Setup
 

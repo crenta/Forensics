@@ -4,8 +4,6 @@ A powerful command-line tool with a simple GUI for the forensic analysis of `.em
 
 The script parses an EML file to extract key headers, analyze the full header stack, identify and hash attachments, and extract Indicators of Compromise (IOCs) like URLs, IP addresses, and email addresses.
 
-![EML Analyzer GUI](https://i.imgur.com/g8R78yC.png)
-
 ## Features
 
 -   **Dual Analysis Modes:**

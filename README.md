@@ -36,13 +36,6 @@ To use a tool from this collection:
 3.  Install any required dependencies listed in the tool's README.
 4.  Run the Python script as instructed.
 
-## Future Work
-
-This collection is actively maintained. Future additions may include tools for:
-* Windows Registry analysis (`NTUSER.DAT`, `SAM`, `SYSTEM`).
-* Browser history parsing.
-* Event Log (`.evtx`) processing.
-
 ## License
 
 The entire collection of tools and code within this repository is governed by the license specified in the `LICENSE` file, located in the root of this directory. Please review the file for the full text and terms.
